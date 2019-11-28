@@ -20,7 +20,7 @@ No of classes for Hair color
 
 #Note - Hair model is confused between grey and blonde color [have some ideas for better classification between them]
  
-"Steps to run the code".
+<--------------------------------------"Steps to run the code"----------------------------->
 
 1- Create a Virtual environment in ubuntu.
 [sudo apt-get install virtualenv]
@@ -38,6 +38,8 @@ https://drive.google.com/open?id=1xmNGIBP6ORc5M75sbyNBP2J8oeeryjo8
 5- Run the code [python3 submit_code.py]
 
 6- Check the prediction in output folder.
+
+<------------------------------------------------------------------------------------------------->
 
 #Note - Due to less time and less data model's accuracy is not that much good but there are lots of areas for improvement.
 #Gaurav kothyari
