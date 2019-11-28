@@ -18,6 +18,8 @@ No of classes for Hair color
 2- Grey
 3- Blonde
 
+![Image description](Wet-n-Wild-Reserve-Your-Cabana-Pale-Skin.png)
+
 #Note - Hair model is confused between grey and blonde color [have some ideas for better classification between them]
  
 Steps to run the code.
