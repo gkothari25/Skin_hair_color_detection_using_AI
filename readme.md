@@ -20,7 +20,7 @@ No of classes for Hair color
 
 #Note - Hair model is confused between grey and blonde color [have some ideas for better classification between them]
  
-Steps to run the code.
+"Steps to run the code".
 
 1- Create a Virtual environment in ubuntu.
 [sudo apt-get install virtualenv]
