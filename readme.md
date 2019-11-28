@@ -28,11 +28,18 @@ Steps to run the code.
 
 2- Install the requirement.txt in that virtual env. [pip3 install -r requirement.txt]
 3- Put your test images into #test folder
-4- download the weight file and put that file in ckpt folder. []
-4- Run the code [python3 submit_code.py]
-4- Check the prediction in output folder.
+4- download the weight file and put that file in ckpt folder. 
 
-#Note - Due of less time and less data accuracy is not that much good but there are lots of areas for improvement.
+Link is below:
+
+https://drive.google.com/open?id=1xmNGIBP6ORc5M75sbyNBP2J8oeeryjo8
+
+   
+5- Run the code [python3 submit_code.py]
+
+6- Check the prediction in output folder.
+
+#Note - Due to less time and less data model's accuracy is not that much good but there are lots of areas for improvement.
 #Gaurav kothyari
 #gkothari25@gmail.com 
 ![Image description](Wet-n-Wild-Reserve-Your-Cabana-Pale-Skin.png)
