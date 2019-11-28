@@ -1,0 +1,6 @@
+Dwonload this weight file from google cloud and put it in this folder 
+ex - [ckpt/pspnet_resnet101_sgd_lr_0.002_epoch_100_test_iou_0.918.pth]
+
+Link to download :-
+https://drive.google.com/open?id=1xmNGIBP6ORc5M75sbyNBP2J8oeeryjo8
+
