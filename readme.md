@@ -18,8 +18,6 @@ No of classes for Hair color
 2- Grey
 3- Blonde
 
-![Image description](Wet-n-Wild-Reserve-Your-Cabana-Pale-Skin.png)
-
 #Note - Hair model is confused between grey and blonde color [have some ideas for better classification between them]
  
 Steps to run the code.
@@ -33,7 +31,7 @@ Steps to run the code.
 4- Check the prediction in output folder.
 
 #Note - Due of less time and less data accuracy is not that much good but there are lots of areas for improvement.
-
+![Image description](Wet-n-Wild-Reserve-Your-Cabana-Pale-Skin.png)
 #Gaurav kothyari
 #https://github.com/gkothari25
 #gkothari25@gmail.com 
