@@ -21,13 +21,15 @@ No of classes for Hair color
 #Note - Hair model is confused between grey and blonde color [have some ideas for better classification between them]
  
 Steps to run the code.
-2- Create a Virtual environment in ubuntu.
+
+1- Create a Virtual environment in ubuntu.
 [sudo apt-get install virtualenv]
 #check the steps for creating and activating the virtual env
 
-1- Install the requirement.txt in that virtual env. [pip3 install -r requirement.txt]
-2- Put your test images into #test folder
-3- Run the code [python3 submit_code.py]
+2- Install the requirement.txt in that virtual env. [pip3 install -r requirement.txt]
+3- Put your test images into #test folder
+4- download the weight file and put that file in ckpt folder. []
+4- Run the code [python3 submit_code.py]
 4- Check the prediction in output folder.
 
 #Note - Due of less time and less data accuracy is not that much good but there are lots of areas for improvement.
