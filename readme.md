@@ -40,6 +40,7 @@ https://drive.google.com/open?id=1xmNGIBP6ORc5M75sbyNBP2J8oeeryjo8
 6- Check the prediction in output folder.
 
 <------------------------------------------------------------------------------------------------->
+
 Special Thanks to YBIGTA
 https://github.com/YBIGTA/pytorch-hair-segmentation
 
