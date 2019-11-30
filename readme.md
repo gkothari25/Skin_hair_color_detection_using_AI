@@ -3,7 +3,6 @@ SKIN COLOR AND HAIR COLOR DETECTION USING DEEP LEARNING, IMAGE PROCESSING AND MA
 Environment:
 Ubuntu 16.04 LTS
 Ram 8GB
-Intel® Core™ i5-7200U CPU @ 2.50GHz × 4 
 
 Framework : Pytorch
 Face detection : dlib
