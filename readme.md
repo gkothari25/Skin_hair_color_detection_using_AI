@@ -44,7 +44,5 @@ https://drive.google.com/open?id=1xmNGIBP6ORc5M75sbyNBP2J8oeeryjo8
 Special Thanks to YBIGTA
 https://github.com/YBIGTA/pytorch-hair-segmentation
 
-#Note - Due to less time and less data model's accuracy is not that much good but there are lots of areas for improvement.
-#Gaurav kothyari
 #gkothari25@gmail.com 
 ![Image description](Wet-n-Wild-Reserve-Your-Cabana-Pale-Skin.png)
