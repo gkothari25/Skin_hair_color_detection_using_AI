@@ -43,5 +43,5 @@ https://drive.google.com/open?id=1xmNGIBP6ORc5M75sbyNBP2J8oeeryjo8
 Special Thanks to YBIGTA
 https://github.com/YBIGTA/pytorch-hair-segmentation
 
-#gkothari25@gmail.com 
+#My email id is :- gkothari25@gmail.com [You can reach me here]
 ![Image description](Wet-n-Wild-Reserve-Your-Cabana-Pale-Skin.png)
